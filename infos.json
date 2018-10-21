@@ -1,0 +1,10 @@
+{
+  "displayName" : "Unix Users",
+  "author" : ["Yuta Akama"],
+  "contributor" : [],
+  "supportedAgent" : ["Unix"],
+  "description" : {
+    "en" : "This Perl Module file is that runs on unix and retrieve all unix users via OCS Inventory NG Unix Agent.",
+    "ja" : "このPerlモジュールファイルは、UNIX上で実行され、OCS Inventory Unix Agentを経由して、全てのunixユーザを取得します。"
+  }
+}
