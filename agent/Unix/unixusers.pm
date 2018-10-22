@@ -55,7 +55,7 @@ sub unixusers_inventory_handler {
    for (@unixusers) {
      push @{$common->{xmltags}->{UNIXUSERS}},
      {
-       NAME => [$_],
+       NAME => $_,
      };
    }
 }
