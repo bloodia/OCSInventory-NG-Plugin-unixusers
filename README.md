@@ -5,8 +5,11 @@
 This Perl Module file is that runs on unix and retrieve all unix users via OCS Inventory NG Unix Agent.
 
 ## Requires
-### OCS Inventory NG Unix Agent
+### OCS Inventory NG Server
 - 2.5 and higher
+
+### OCS Inventory NG Unix Agent
+- 2.3 and higher
 
 ## How to install
 ### OCS Inventory NG Server
