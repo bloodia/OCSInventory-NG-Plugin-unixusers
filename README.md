@@ -11,7 +11,7 @@ This Perl Module file is that runs on unix and retrieve all unix users via OCS I
 ### OCS Inventory NG Unix Agent
 - 2.3 and higher
 
-## How to install
+## How to Install
 ### OCS Inventory NG Server
 - Put unixusers.zip in download folder in ocsreports (By default /usr/share/ocsinventory-reports/ocsreports/download)
 - In the ocsreports webconsole click on plugins -> plugin manager.
